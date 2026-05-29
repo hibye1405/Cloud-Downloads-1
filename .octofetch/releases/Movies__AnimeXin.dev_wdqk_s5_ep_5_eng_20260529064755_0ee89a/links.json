@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1793",
+  "folder": "Movies__AnimeXin.dev_wdqk_s5_ep_5_eng_20260529064755_0ee89a",
+  "base_name": "Movies__AnimeXin.dev_wdqk_s5_ep_5_eng_20260529064755_0ee89a.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/hibye1405/Cloud-Downloads-1/releases/tag/co-releases-v1-1793",
+  "files": [
+    {
+      "name": "Movies__AnimeXin.dev_wdqk_s5_ep_5_eng_20260529064755_0ee89a.mp4",
+      "url": "https://github.com/hibye1405/Cloud-Downloads-1/releases/download/co-releases-v1-1793/Movies__AnimeXin.dev_wdqk_s5_ep_5_eng_20260529064755_0ee89a.mp4",
+      "api_url": "https://api.github.com/repos/hibye1405/Cloud-Downloads-1/releases/assets/432792846",
+      "id": 432792846,
+      "size": 948468032,
+      "download_count": 0
+    }
+  ]
+}
