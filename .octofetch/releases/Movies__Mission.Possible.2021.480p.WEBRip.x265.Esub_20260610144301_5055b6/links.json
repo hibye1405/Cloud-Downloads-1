@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7020",
+  "folder": "Movies__Mission.Possible.2021.480p.WEBRip.x265.Esub_20260610144301_5055b6",
+  "base_name": "Movies__Mission.Possible.2021.480p.WEBRip.x265.Esub_20260610144301_5055b6.mkv",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/hibye1405/Cloud-Downloads-1/releases/tag/co-releases-v1-7020",
+  "files": [
+    {
+      "name": "Movies__Mission.Possible.2021.480p.WEBRip.x265.Esub_20260610144301_5055b6.mkv",
+      "url": "https://github.com/hibye1405/Cloud-Downloads-1/releases/download/co-releases-v1-7020/Movies__Mission.Possible.2021.480p.WEBRip.x265.Esub_20260610144301_5055b6.mkv",
+      "api_url": "https://api.github.com/repos/hibye1405/Cloud-Downloads-1/releases/assets/443790248",
+      "id": 443790248,
+      "size": 162468562,
+      "download_count": 0
+    }
+  ]
+}
