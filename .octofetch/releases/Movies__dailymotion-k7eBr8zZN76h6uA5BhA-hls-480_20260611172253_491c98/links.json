@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1447",
+  "folder": "Movies__dailymotion-k7eBr8zZN76h6uA5BhA-hls-480_20260611172253_491c98",
+  "base_name": "Movies__dailymotion-k7eBr8zZN76h6uA5BhA-hls-480_20260611172253_491c98.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/hibye1405/Cloud-Downloads-1/releases/tag/co-releases-v1-1447",
+  "files": [
+    {
+      "name": "Movies__dailymotion-k7eBr8zZN76h6uA5BhA-hls-480_20260611172253_491c98.mp4",
+      "url": "https://github.com/hibye1405/Cloud-Downloads-1/releases/download/co-releases-v1-1447/Movies__dailymotion-k7eBr8zZN76h6uA5BhA-hls-480_20260611172253_491c98.mp4",
+      "api_url": "https://api.github.com/repos/hibye1405/Cloud-Downloads-1/releases/assets/444901480",
+      "id": 444901480,
+      "size": 118874339,
+      "download_count": 0
+    }
+  ]
+}
