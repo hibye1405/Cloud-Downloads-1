@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3130",
+  "folder": "Movies__the.east.palace.s01e01.480p.web.x264.rmteam_20260718164221_9b8542",
+  "base_name": "Movies__the.east.palace.s01e01.480p.web.x264.rmteam_20260718164221_9b8542.mkv",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/hibye1405/Cloud-Downloads-1/releases/tag/co-releases-v1-3130",
+  "files": [
+    {
+      "name": "Movies__the.east.palace.s01e01.480p.web.x264.rmteam_20260718164221_9b8542.mkv",
+      "url": "https://github.com/hibye1405/Cloud-Downloads-1/releases/download/co-releases-v1-3130/Movies__the.east.palace.s01e01.480p.web.x264.rmteam_20260718164221_9b8542.mkv",
+      "api_url": "https://api.github.com/repos/hibye1405/Cloud-Downloads-1/releases/assets/481630666",
+      "id": 481630666,
+      "size": 10687,
+      "download_count": 0
+    }
+  ]
+}
